@@ -1,0 +1,13 @@
+datasets
+
+accelerate
+
+transformers
+
+torchvision
+
+wandb
+
+peft
+
+webdataset
